@@ -11,7 +11,7 @@ Welcome to my profile! I'm a master student majoring in Computer Science at UIUC
 + **My [Academic Personal Homepage](http://chenwentao.xyz/).** -->
 
 - 🔭 I’m currently working on Medical Image Analysis & Computer Vision.
-- 🌱 I’m currently learning MultiModal Machine Learning.
+- 🌱 I’m currently studying MultiModal Application in various fields.
 - 📫 How to reach me: zl111@illinois.edu
 - ⚡ Fun fact: I love Table Tennis and Cycling.
 <!--
