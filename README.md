@@ -1,9 +1,9 @@
 # Hi I'm Zihan Li 👋
 [![Linkedin Badge](https://img.shields.io/badge/-ZihanLi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zihan-li-2159bb24b/)](https://www.linkedin.com/in/zihan-li-2159bb24b/)
 [![Website Badge](https://img.shields.io/badge/-ZihanLi-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://huanglizi.github.io/)](https://huanglizi.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/-ZihanLi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zl111@illinois.edu)](mailto:zl111@illinois.edu)
 <!--[![Twitter Badge](https://img.shields.io/badge/-@realmadrid_chen-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/realmadrid_chen)](https://twitter.com/realmadrid_chen)
 [![Instagram Badge](https://img.shields.io/badge/-@realmadridchenwentao-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/realmadridchenwentao/)](https://www.instagram.com/realmadridchenwentao/)-->
-[![Gmail Badge](https://img.shields.io/badge/-ZihanLi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zl111@illinois.edu)](mailto:zl111@illinois.edu)
 
 Welcome to my profile! I'm a master student majoring in Computer Science at UIUC. Thanks for visiting and I am looking for collaborators on Medical Image Analysis. 
 <!-- + **My [Gitee Blog](https://gitee.com/realmadridchenwentao).**
