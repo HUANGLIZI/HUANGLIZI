@@ -5,7 +5,7 @@
 <!--[![Twitter Badge](https://img.shields.io/badge/-@realmadrid_chen-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/realmadrid_chen)](https://twitter.com/realmadrid_chen)
 [![Instagram Badge](https://img.shields.io/badge/-@realmadridchenwentao-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/realmadridchenwentao/)](https://www.instagram.com/realmadridchenwentao/)-->
 
-Welcome to my profile! I'm a master student majoring in Computer Science at UIUC. Thanks for visiting and I am looking for collaborators on Medical Image Analysis. 
+Welcome to my profile! I'm a master student majoring in Computer Science at UIUC. Thanks for visiting and I am looking for collaborators on Medical Image Analysis and Computer Vision.
 <!-- + **My [Gitee Blog](https://gitee.com/realmadridchenwentao).**
 + **My [CSDN Blog](https://blog.csdn.net/weixin_46103817?spm=1010.2135.3001.5343).**
 + **My [Academic Personal Homepage](http://chenwentao.xyz/).** -->
