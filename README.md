@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=HUANGLIZI&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUANGLIZI&layout=compact&count_private=true" width='300"' />
+[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=HUANGLIZI&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUANGLIZI&layout=compact&count_private=true&hide_rank=true" width='300"' />
 
