@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <a href="https://github.com/HUANGLIZI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HUANGLIZI&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/HUANGLIZI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUANGLIZI&layout=compact&theme=buefy&hide_border=true&count_private=true&hide_rank=true" /></a> |
+| <a href="https://github.com/HUANGLIZI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HUANGLIZI&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/HUANGLIZI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUANGLIZI&layout=compact&theme=buefy&hide_border=true&hide_rank=true" /></a> |
 | ------------- | ------------- |
