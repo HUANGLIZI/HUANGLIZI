@@ -4,6 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-ZihanLi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhanli@uw.edu)](mailto:zhanli@uw.edu) 
 
  Welcome to my profile! I'm a Ph.D. student majoring in Bioengineering at University of Washington, Seattle. I received my master degree in Computer Science from UIUC.
+ 
  Thanks for visiting and I am looking for collaborators on Medical Image Analysis and Computer Vision.
 
 - 🔭 I’m currently working on Medical Image Analysis & Computer Vision.
