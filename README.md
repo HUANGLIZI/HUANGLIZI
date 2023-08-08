@@ -1,7 +1,7 @@
 # Hi 👋
  [![Linkedin Badge](https://img.shields.io/badge/-ZihanLi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zihan-li-2159bb24b/)](https://www.linkedin.com/in/zihan-li-2159bb24b/)
 [![Website Badge](https://img.shields.io/badge/-ZihanLi-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://huanglizi.github.io/)](https://huanglizi.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/-ZihanLi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zl111@illinois.edu)](mailto:zhanli@uw.edu) 
+[![Gmail Badge](https://img.shields.io/badge/-ZihanLi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhanli@uw.edu)](mailto:zhanli@uw.edu) 
 
  Welcome to my profile! I'm a Ph.D. student majoring in Bioengineering at University of Washington, Seattle. I received my master degree in Computer Science from UIUC.
  Thanks for visiting and I am looking for collaborators on Medical Image Analysis and Computer Vision.
