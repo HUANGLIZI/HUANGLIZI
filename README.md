@@ -8,7 +8,7 @@
  Thanks for visiting and I am looking for collaborators on Medical Image Analysis and Computer Vision.
 
 - 🔭 I’m currently working on Medical Image Analysis & Computer Vision.
-- 🌱 I’m currently studying MultiModal Application in various fields. 
+- 🌱 I’m currently studying Large MultiModal Application in various fields. 
 - 📫 How to reach me: zhanli@uw.edu
 - ⚡ Fun fact: I love Table Tennis and Cycling.
 <!--
