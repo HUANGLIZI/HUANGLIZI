@@ -1,5 +1,4 @@
 # Hi 👋
- [![Linkedin Badge](https://img.shields.io/badge/-ZihanLi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zihan-li-2159bb24b/)](https://www.linkedin.com/in/zihan-li-2159bb24b/)
 [![Website Badge](https://img.shields.io/badge/-ZihanLi-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://huanglizi.github.io/)](https://huanglizi.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-ZihanLi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhanli@uw.edu)](mailto:zhanli@uw.edu) 
 
