@@ -6,7 +6,7 @@
  
  Thanks for visiting and I am looking for collaborators on AI for Healthcare and Foundation Model.
 
-- 🔭 I’m currently working on Medical Image Analysis & Computer Vision.
+- 🔭 I’m currently working on Large-scale Data Harmonization and Foundation Model.
 - 🌱 I’m currently studying Large MultiModal Application in various fields. 
 - 📫 How to reach me: zhanli@uw.edu
 - ⚡ Fun fact: I love Table Tennis and Cycling.
