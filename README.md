@@ -4,7 +4,7 @@
 
  Welcome to my profile! I'm a Ph.D. student majoring in Bioengineering: Data Science at University of Washington, Seattle. I received my master degree in Computer Science from UIUC.
  
- Thanks for visiting and I am looking for collaborators on Medical Image Analysis and Computer Vision.
+ Thanks for visiting and I am looking for collaborators on AI for Healthcare and Foundation Model.
 
 - 🔭 I’m currently working on Medical Image Analysis & Computer Vision.
 - 🌱 I’m currently studying Large MultiModal Application in various fields. 
