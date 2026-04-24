@@ -4,7 +4,7 @@
 
 Welcome to my profile! I'm a Ph.D. student majoring in Bioengineering: Data Science at University of Washington, Seattle. I received my master degree in Computer Science from UIUC.
  
-I am on the job market and actively seeking research scientist/academic position opportunities starting in Fall 2027!
+**I am on the job market and actively seeking research scientist/academic position opportunities starting in Fall 2027!**
 
 - 🔭 I’m currently working on Large-scale Data Harmonization and Foundation Model.
 - 🌱 I’m currently studying Large MultiModal Application in various fields. 
