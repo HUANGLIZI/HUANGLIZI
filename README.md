@@ -3,8 +3,6 @@
 
 Welcome to my profile! I'm a Ph.D. student at University of Washington, Seattle. I received my master degree in Computer Science from UIUC.
 
-- 🔭 I’m currently working on Large-scale Data Harmonization and Foundation Model.
-- 🌱 I’m currently studying Large MultiModal Application in various fields. 
 - 📫 How to reach me: zhanli@uw.edu
 - ⚡ Fun fact: I love Table Tennis and Cycling.
 <!--
