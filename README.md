@@ -1,7 +1,7 @@
 # Hi 👋
 [![Gmail Badge](https://img.shields.io/badge/-ZihanLi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhanli@uw.edu)](mailto:zhanli@uw.edu) 
 
-Welcome to my profile! I'm a Ph.D. student majoring in Bioengineering: Data Science at University of Washington, Seattle. I received my master degree in Computer Science from UIUC.
+Welcome to my profile! I'm a Ph.D. student at University of Washington, Seattle. I received my master degree in Computer Science from UIUC.
 
 - 🔭 I’m currently working on Large-scale Data Harmonization and Foundation Model.
 - 🌱 I’m currently studying Large MultiModal Application in various fields. 
